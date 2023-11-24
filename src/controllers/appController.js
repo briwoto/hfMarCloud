@@ -1,5 +1,7 @@
 import { useUSPopulation } from '../hooks/us-population';
 
+// this function formats the raw data received from the third-party API
+// thus, providing only the information necessary
 const formatPopulationDataByDrilldown = (drilldowns, rawData) => {
   switch (drilldowns.toLowerCase()) {
     case 'state':
