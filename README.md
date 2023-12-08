@@ -124,7 +124,8 @@ Dealing with APIs that don't directly belong to your code needs be handled separ
 
 ## Part B Integration with Salesforce Marketing Cloud API
 
-    First and foremost, it is essential to realise that the inference based merely on population data may lack some aspects. For most strategies, it is vital to consider other aspects - age demographies, insutrial growth, urban vs rural population; to name a few.
+    First and foremost, it is essential to realise that the inference based merely on population data may lack some aspects.  
+    For most strategies, it is vital to consider other aspects - age demographies, insutrial growth, urban vs rural population; to name a few.  
 
     That being said, here are a few examples that may leverage population data successfully
 
